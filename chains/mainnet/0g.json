@@ -1,0 +1,23 @@
+{
+    "chain_name": "0g Newton",
+    "coingecko": "0g",
+    "api": [
+        {"provider": "Nodebrand", "address": "https://testnet.zero-g.api.service.nodebrand.xyz"}
+    ],
+    "rpc": [
+        {"provider": "Nodebrand", "address": "https://testnet.zero-g.rpc.service.nodebrand.xyz"}
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "v0.47.6",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "0g",
+    "logo": "/logos/0g.webp",
+    "assets": [{
+        "base": "ua0gi",
+        "symbol": "A0GI",
+        "exponent": "6",
+        "coingecko_id": "0g",
+        "logo": "/logos/0g.webp"
+    }]
+}
