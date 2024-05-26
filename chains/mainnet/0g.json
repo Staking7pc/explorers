@@ -2,10 +2,10 @@
     "chain_name": "0g Newton",
     "coingecko": "0g",
     "api": [
-        {"provider": "Nodebrand", "address": "https://testnet.zero-g.api.service.nodebrand.xyz"}
+        {"provider": "Brightlystake", "address": "https://t0g.brightlystake.com/api/"}
     ],
     "rpc": [
-        {"provider": "Nodebrand", "address": "https://testnet.zero-g.rpc.service.nodebrand.xyz"}
+        {"provider": "Brightlystake", "address": "https://t0g.brightlystake.com"}
     ],
     "snapshot_provider": "",
     "sdk_version": "v0.47.6",
